@@ -12,7 +12,9 @@ process.
 ## Data
 
 ```
-data/cross_validation_data.zip
+data/cross_validation_hotel.zip.001
+data/cross_validation_hotel.zip.001
+data/cross_validation_restaurant.zip
 ```
 
 ## Usage
