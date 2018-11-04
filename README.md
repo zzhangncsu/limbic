@@ -1,5 +1,4 @@
-Limbic: Author-Based Sentiment Aspect Modeling Regularized with Word Embeddings and Discourse Relations
-=======================================================================
+# Limbic: Author-Based Sentiment Aspect Modeling Regularized with Word Embeddings and Discourse Relations
 
 This repo houses a Java implementation of Limbic. Limbic is an unsupervised probabilistic model that addresses the
 problem of discovering aspects and sentiments and associating them with authors
@@ -10,15 +9,13 @@ words with high semantic similarity into the same topic, Limbic captures
 semantic regularities from word embeddings via a generalized Pólya Urn
 process.
 
-Data
------
+## Data
 
 ```
 data/cross_validation_data.zip
 ```
 
-Usage
------
+## Usage
 
 To run the code, specify the following arguments:
 
@@ -40,8 +37,8 @@ Usage: Limbic [options]
  -t          Thin interval
 ```
 
-Citation
--------
+## Citation
+
 Zhe Zhang and Munindar P. Singh. 2018. [Limbic: Author-Based Sentiment Aspect Modeling Regularized with Word Embeddings and Discourse Relations](http://aclweb.org/anthology/D18-1378).  In <i> Proceedings of the 23<sup>rd</sup> Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, pages 3412-3422, Brussels. 
 
 ## License
