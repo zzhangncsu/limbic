@@ -44,7 +44,6 @@ Citation
 -------
 Zhe Zhang and Munindar P. Singh. 2018. [Limbic: Author-Based Sentiment Aspect Modeling Regularized with Word Embeddings and Discourse Relations](http://aclweb.org/anthology/D18-1378).  In <i> Proceedings of the 23<sup>rd</sup> Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, pages 3412-3422, Brussels. 
 
-License
--------
+## License
 
-The code is available for research purpose. 
+[Apache License 2.0](LICENSE)
