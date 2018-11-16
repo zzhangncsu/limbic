@@ -41,7 +41,7 @@ Usage: Limbic [options]
 
 ## Citation
 
-Zhe Zhang and Munindar P. Singh. 2018. Limbic: Author-Based Sentiment Aspect Modeling Regularized with Word Embeddings and Discourse Relations.  In <i> Proceedings of the 23<sup>rd</sup> Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, pages 3412-3422, Brussels. [[pdf]](http://aclweb.org/anthology/D18-1378) [[bib]](https://research.csc.ncsu.edu/mas/code/limbic/Limbic.bib)
+Zhe Zhang and Munindar P. Singh. 2018. Limbic: Author-Based Sentiment Aspect Modeling Regularized with Word Embeddings and Discourse Relations.  In <i> Proceedings of the 23<sup>rd</sup> Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, pages 3412-3422, Brussels. [[pdf]](http://aclweb.org/anthology/D18-1378) 
 
 ## License
 
