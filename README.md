@@ -40,8 +40,21 @@ Usage: Limbic [options]
 ```
 
 ## Citation
+If you find the implementation useful, please cite the following paper:
 
 Zhe Zhang and Munindar P. Singh. 2018. Limbic: Author-Based Sentiment Aspect Modeling Regularized with Word Embeddings and Discourse Relations.  In <i> Proceedings of the 23<sup>rd</sup> Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, pages 3412-3422, Brussels. [[pdf]](http://aclweb.org/anthology/D18-1378) 
+
+```
+@InProceedings{Zhang&Singh:EMNLP2018,
+  author    = {Zhe Zhang and Munindar P. Singh},
+  title     = {Limbic: Author-Based Sentiment Aspect Modeling Regularized with Word Embeddings and Discourse Relations},
+  booktitle = {Proceedings of the 23<sup>rd</sup> Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year      = {2018},
+  address   = {Brussels},
+  pages     = {3412-–3422},
+  url       = {http://aclweb.org/anthology/D18-1378}
+}
+``` 
 
 ## License
 
